@@ -1,0 +1,10 @@
+--2011-04-27 17:25:51--  http://ichart.finance.yahoo.com/table.csv?s=xly&d=4&e=26&f=2011&g=d&a=11&b=8&c=2011&ignore=.
+Resolving ichart.finance.yahoo.com... 76.13.116.133
+Connecting to ichart.finance.yahoo.com|76.13.116.133|:80... failed: Connection reset by peer.
+Retrying.
+
+--2011-04-27 23:35:55--  (try: 2)  http://ichart.finance.yahoo.com/table.csv?s=xly&d=4&e=26&f=2011&g=d&a=11&b=8&c=2011&ignore=.
+Connecting to ichart.finance.yahoo.com|76.13.116.133|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2011-04-27 23:35:55 ERROR 404: Not Found.
+

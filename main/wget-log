@@ -1,0 +1,9 @@
+--2011-04-27 17:22:32--  http://ichart.finance.yahoo.com/table.csv?s=ilmn&d=4&e=26&f=2011&g=d&a=12&b=08&c=2011&ignore=.
+Resolving ichart.finance.yahoo.com... 76.13.116.133
+Connecting to ichart.finance.yahoo.com|76.13.116.133|:80... connected.
+HTTP request sent, awaiting response... 200 `wget-log'
+Length: unspecified [text/csv]
+Saving to: `./process/ilmn'
+
+     0K .......... .......... .......... .......... .......... 66.2M
+    50K .......... ......

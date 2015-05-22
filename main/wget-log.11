@@ -1,0 +1,11 @@
+--2011-04-27 16:32:20--  http://ichart.finance.yahoo.com/table.csv?s=swc
+Resolving ichart.finance.yahoo.com... 76.13.116.133
+Connecting to ichart.finance.yahoo.com|76.13.116.133|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: `./process/swc'
+
+    [  <=>                                  ] 188,357     10.6B/s                  [   <=>                                 ] 192,405     10.9B/s                  [    <=>                                ] 192,405     10.9B/s   in 4h 54m  
+
+2011-04-27 23:35:54 (10.9 B/s) - `./process/swc' saved [192405]
+
